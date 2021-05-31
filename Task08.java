@@ -53,5 +53,5 @@ public class Task08 {
     }
 
 
-}
+}// зачтено
 
